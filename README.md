@@ -22,7 +22,7 @@ cd AI-TextVoice-Assistant
 
 ### 2. Set API Keys
 
-You’ll need to set up API keys for Gemini
+You’ll need to set up API key for Gemini
 
 - **Google Generative AI (Gemini)**
 
