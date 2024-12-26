@@ -1,5 +1,3 @@
-# AI-TextVoice-Assistant
-
 # AI Voice-Text Assistant
 
 AI-based assistant that allows users to interact with both voice and text. It integrates voice input recognition and text-based input processing to generate meaningful responses using Google's Generative AI and translation services.
